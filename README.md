@@ -25,13 +25,13 @@
 </p>
 
 <p align="center">
-  <img src=pictures/wordcloud.png "Wordcloud for track "HUBLOT"" width="650" height="400">
+  <img src=pictures/wordcloud.png "Wordcloud for track "HUBLOT"" width="550" height="300">
 </p>
 
 *<p align="center"> Fig. 1 Wordcloud for track "HUBLOT" </p>* 
                 
 
-### Models
+## Model
 <p align="justify">
   Using the Word2Vec model and the cosine measure, we can look at the semantic proximity of songs to each other and calculate the overall mood of the album. 
 </p>
