@@ -38,7 +38,7 @@
   Using the Word2Vec model and the cosine measure, we can look at the semantic proximity of songs to each other and calculate the overall mood of the album. 
 </p>
 
-Here we use a ready-made model trained in the National Corpus of the Russian Language from [Rusvectōrēs community] (https://rusvectores.org/ru/models/) 
+Here we use a ready-made model trained in the National Corpus of the Russian Language from [Rusvectōrēs community](https://rusvectores.org/ru/models/) 
 The results of comparing the texts of all pairs of tracks are shown in Figure 2.
 
 
