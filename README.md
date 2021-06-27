@@ -25,12 +25,10 @@
 </p>
 
 <p align="center">
-  <img src=pictures/wordcloud.png "Wordcloud for track "HUBLOT"" width="750" height="500">
+  <img src=pictures/wordcloud.png "Wordcloud for track "HUBLOT"" width="650" height="400">
 </p>
 
-*<p align="center">
-  Fig. 1 Wordcloud for track "HUBLOT"
-</p>* 
+*<p align="center"> Fig. 1 Wordcloud for track "HUBLOT" </p>* 
                 
 
 ### Models
@@ -43,9 +41,7 @@ The results of comparing the texts of all pairs of tracks are shown in Figure 2.
 
 
 <p align="center">
-  <img src=pictures/track_comparison.png "Tracks comparison" width="750" height="500">
+  <img src=pictures/track_comparison.PNG "Tracks comparison" width="650" height="400">
 </p>
 
-*<p align="center">
-  Fig. 2 Tracks comparison
-</p>* 
+*<p align="center"> Fig. 2 Tracks comparison </p>* 
